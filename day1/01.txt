@@ -1,0 +1,21 @@
+You are provided an integer n. Print "Yes" (without quotes) if the number is divisible by 4, else print "No" (without quotes).
+
+
+Input
+First and only line contains one positive integer
+
+
+
+n<100000
+
+
+Output
+Output Yes/No depending on n
+
+
+Sample Input 1 
+
+12
+Sample Output 1
+
+Yes
